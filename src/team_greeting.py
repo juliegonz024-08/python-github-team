@@ -5,7 +5,7 @@ print("This is team 14!")
 team_members = [
     "Team Member #1",
     "Team Member #2",
-    "Team Member #3",
+    "Ivana Mendoza Cupe",
     "Lynn Htet Aung"
 ]
 
