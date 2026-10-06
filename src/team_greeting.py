@@ -6,7 +6,7 @@ team_members = [
     "Team Member #1",
     "Team Member #2",
     "Team Member #3",
-    "Team Member #4"
+    "Lynn Htet Aung"
 ]
 
 print("\nMeet the team:")
